@@ -45,5 +45,6 @@ O PIB per capita dos estados  em R$ no período de 2010 a 2018, deflacionado pel
 Número de veículos com motor com o ciclo Otto, que funcionam a base de gasolina, etanol ou flex fuel. Variável obtida no site do SENATRAN com frequência de 2010 a 2019 para todos os estados da união ( com exceção do Amapá e Distrito Federal). 
 
 Além das variáveis definidas anteriormente, incluiu-se também duas variáveis binárias, cujo comportamento pode ser definido como segue:
+
 ![image](https://user-images.githubusercontent.com/77032413/194126395-e0645592-46b7-4eeb-ae01-a407f8b9b01d.png)
 
