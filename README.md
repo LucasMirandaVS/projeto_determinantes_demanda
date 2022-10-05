@@ -27,7 +27,8 @@ As variáveis da equação são as que seguem:
 
 ### Dados
 Em virtude da ausência de dados confiáveis para as séries de preços de todas as unidades federativas, foram excluídos os estados do Amapá e Distrito Federal. Dessa forma, as variáveis definidas no modelo e suas respectivas fontes podem ser definidas da seguinte forma:
-* Consumo de etanol 
+
+* Consumo de etanol (QE) 
 
 Extraído do site da ANP com periodicidade anual no período de 2010 a 2019 para os estados brasileiros (com exceção do Amapá e Distrito Federal) e apresentado em m³ (metros cúbicos).
 
