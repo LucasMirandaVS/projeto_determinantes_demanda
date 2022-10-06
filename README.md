@@ -48,3 +48,17 @@ Além das variáveis definidas anteriormente, incluiu-se também duas variáveis
 
 ![image](https://user-images.githubusercontent.com/77032413/194126395-e0645592-46b7-4eeb-ae01-a407f8b9b01d.png)
 
+## Resultados
+
+A estimativa de um modelo de dados em painel ocorre através de diferentes métodos. No presente trabalho foram considerados os seguintes métodos: Pooled, efeitos fixos e efeitos aleatórios. Após a estimação dos modelos, o próximo passo é verificar a significância estatística dos modelos através dos testes estatísticos mencionados na metodologia. 
+
+O resultados dos testes estatísticos encontram-se na tabela abaixo:
+
+![image](https://user-images.githubusercontent.com/77032413/194324998-1f3eb6b9-712f-4378-9154-4649ed671377.png)
+
+O resultado do teste de Hausman, cuja hipótese nula é a de um efeito aleatório consistente e assintoticamente eficiente ou efeito fixo consistente, e a hipótese alternativa é a de um efeito aleatório inconsistente ou efeito fixo consistente. O resultado de 752,36 indica que deve se rejeitar a 1% de significância a hipótese nula de que o modelo que melhor se ajusta aos dados é o de efeitos aleatórios. Isto indica que os modelos estimados devem necessariamente considerar a presença de efeitos fixos.
+
+Tendo em vista os resultados dos testes estatísticos e seguindo os procedimentos mencionados na metodologia, optou-se por utilizar estimadores com efeitos fixos para realizar a estimação da equação de demanda. Os resultados da estimação da equação de demanda por etanol encontram-se na tabela abaixo:
+
+![image](https://user-images.githubusercontent.com/77032413/194325449-3ba9562d-d400-4c8d-85cc-dac31eed75f7.png)
+
